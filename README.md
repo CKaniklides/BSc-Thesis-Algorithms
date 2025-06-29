@@ -1,4 +1,4 @@
-### BSc Thesis Algorithms  
+# BSc Thesis Algorithms  
 This repository contains the reference implementations for the three core algorithms developed in the Parademo thesis. Parademo is a prototype liquid-democracy platform that supports vote delegation, secure tallying, and reputation scoring. In this repository, you’ll find concise, well-tested Python modules for Delegation Routing, Vote Tallying, and Reputation Computation, along with unit tests to validate their correctness and performance.
 
 ## Delegation Routing  
