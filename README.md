@@ -1,4 +1,4 @@
-# BSc Thesis Material
+# BSc Thesis Materials
 In this repository, you will find all of the supplementary materials created and used for my Bachelor’s Thesis on Parademo, including high-fidelity prototype mock-ups, the core algorithm implementations with their unit tests, and the full usability-study questionnaire with its results.
 
 
